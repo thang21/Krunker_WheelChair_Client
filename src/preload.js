@@ -4,7 +4,7 @@ ipcRenderer.on('esc', () => {
 	document.exitPointerLock();
 });
 
-const url = confirm('[ OK ] - Load Skid?\n[ Cancel ] - Load WheelChair') 
+const url = confirm('[ OK ] - Load Krunker Zares?\n[ Cancel ] - Load WheelChair') 
 ? 'https://raw.githubusercontent.com/skidlamer/WheelChair/master/loader/wheelchair.js' 
 : 'https://raw.githubusercontent.com/hrt/WheelChair/master/wheelchair.min.js';
 	
