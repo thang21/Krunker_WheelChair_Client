@@ -1,0 +1,12 @@
+directories:
+  output: ../
+  buildResources: ./resources
+  app: ./
+productName: Krunker Wheelchair Client
+appId: krunker.wc.client
+win:
+  target:
+    - portable
+portable:
+  artifactName: krunker_wheelchair.exe
+electronVersion: 7.1.3
