@@ -2,6 +2,8 @@
 
 # Krunker_WheelChair_Client GOD 1.9.2 ♿
 
+<b>Requirements:</b> • 7zip for extract</br>
+
 How to use this client hack?
 
 1. Download exeisting files as a zip
