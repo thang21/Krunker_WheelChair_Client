@@ -1,4 +1,4 @@
-**WhceelChair out dated for 1.9.2 update will be coming soon!**
+**WheelChair out dated for 1.9.2 update will be coming soon!** *skid works for 1.9.2 so press (yes)*
 
 # Krunker_WheelChair_Client GOD 1.9.2 ♿
 
@@ -11,8 +11,6 @@ How to use this client hack?
 3. [Download this zipped files and extract them. Paste them inside the extarcted folder!](https://mega.nz/#!g4BFjQzT!hr_Oru_ex1buCIfwAYDL5SEhRMe0KuvYONfVPNxgMdI)
 4. Launch Krunker_wheelcahir.exe
 5. When it's launching press (OK) to launch skid hack with (Menu) Press (No) to launch wheelchair hack.
-
-*skid works for 1.9.2 so press (yes)*
 
 ### Here is a link video to help you if you got a problem: https://www.youtube.com/watch?v=SuK4m-2ynJA&t=50s 
 
