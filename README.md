@@ -1,4 +1,4 @@
-# Krunker_WheelChair_Client GOD 1.9.0 ♿
+# Krunker_WheelChair_Client GOD 1.9.2 ♿
 
 How to use this client hack?
 
