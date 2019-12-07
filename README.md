@@ -1,3 +1,5 @@
+**WhceelChair out dated for 1.9.2 update will be coming soon!**
+
 # Krunker_WheelChair_Client GOD 1.9.2 ♿
 
 How to use this client hack?
@@ -13,5 +15,14 @@ How to use this client hack?
 ### Here is a link video to help you if you got a problem: https://www.youtube.com/watch?v=SuK4m-2ynJA&t=50s 
 
 If your promoting this hack on your channel you can not use ad links on them!
+
+## Features
+- [x] Fullscreen
+- [x] Aim bot, Aim Assist, Trigger bot, Silent aim and Quick scope
+- [x] Better Sniper Recticle
+- [x] Esp - thx to (hrt)
+- [x] Trace lines
+- [x] Box esp
+- [x] WheelChair special
 
 ### Enjoy!
