@@ -8,7 +8,7 @@ How to use this client hack?
 4. Launch Krunker_wheelcahir.exe
 5. When it's launching press (OK) to launch skid hack with (Menu) Press (No) to launch wheelchair hack.
 
-### Here is a link video to help you if you got a problem: 
+### Here is a link video to help you if you got a problem: https://www.youtube.com/watch?v=SuK4m-2ynJA&t=50s 
 
 If your promoting this hack on your channel you can not use ad links on them!
 
