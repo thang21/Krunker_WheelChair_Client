@@ -8,7 +8,8 @@ How to use this client hack?
 2. Extract the zip
 3. [Download Client.exe from here and paste it inside the folder =MEGA.NZ=!](https://mega.nz/#!xk5WzKiK!XqU9kCNBq9Qi1w_15VayjLFzrAtH9tWMlaVnZqejpgY)
 or [Download Client.exe from here and paste it inside the folder =GOOGLE DOCS=!](https://drive.google.com/file/d/1q8SU41IeE5LdOVSQO4Y-5QoZD76sHmnr/view?usp=sharing)
-4. Launch Krunker Wheelchair Client.exe
+4. **Cut the Krunker Wheelchair Client.exe and paste it into the unzipped folder!*
+5. Launch Krunker Wheelchair Client.exe
 
 Your hack is now working!
 
