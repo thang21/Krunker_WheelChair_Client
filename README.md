@@ -1,5 +1,5 @@
 **WheelChair out dated for 1.9.2 update will be coming soon!** *skid works for 1.9.2 so press (yes)*
-  If it doesn't want to show the menu remove the client and zip it again.
+If it doesn't want to show the menu remove the client and zip it again.
 
 # Krunker_WheelChair_Client GOD 1.9.2 ♿
 
