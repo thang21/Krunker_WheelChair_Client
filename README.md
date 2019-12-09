@@ -12,7 +12,7 @@ or [Download Client.exe from here and paste it inside the folder =GOOGLE DOCS=!]
 
 Your hack is now working!
 
-### Here is a link video to help you if you got a problem: https://www.youtube.com/watch?v=SuK4m-2ynJA&t=50s video was for old build this is a new *one*
+### Here is a link video to help you if you got a problem: https://www.youtube.com/watch?v=SuK4m-2ynJA&t=50s video was for old build this is a new *one* out dated. New video coming up soon
 
 If your promoting this hack on your channel you can not use ad links on them!
 
