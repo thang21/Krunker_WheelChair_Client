@@ -15,7 +15,7 @@ Your hack is now working!
 
 **REMEMBER TO BE NOT EVIL AND PLAY A CLEAN GAME!**
 
-### Here is a link video to help you if you got a problem: https://www.youtube.com/watch?v=SuK4m-2ynJA&t=50s video was for old build this is a new *one* out dated. New video coming up soon
+### Here is a link video to help you if you got a problem: https://www.youtube.com/watch?v=JYasjPG2rBk&t=46s
 
 If your promoting this hack on your channel you can not use ad links on them!
 
